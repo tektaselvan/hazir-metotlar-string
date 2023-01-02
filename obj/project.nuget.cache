@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lwbIpZrg71+5tk4OB1a5OTI34wkZ6oc/VpebnAFThFFJDvnd/xU439Y2A++z/8gUrO02yWrP+9TXMb/8fAORg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\hazir-metotlar-string\\hazir-metotlar-string.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
